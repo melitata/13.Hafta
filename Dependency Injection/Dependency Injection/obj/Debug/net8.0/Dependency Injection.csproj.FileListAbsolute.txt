@@ -1,0 +1,36 @@
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\appsettings.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.staticwebassets.endpoints.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.exe
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.deps.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.runtimeconfig.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.pdb
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.csproj.AssemblyReference.cache
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.AssemblyInfo.cs
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\scopedcss\bundle\Dependency Injection.styles.css
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.Dependency Injection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.Dependency Injection.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.build.Dependency Injection.props
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dependency Injection.props
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dependency Injection.props
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependen.046D97CA.Up2Date
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\refint\Dependency Injection.dll
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.pdb
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.genruntimeconfig.cache
+C:\Users\MK_I3\source\repos\Dependency Injection\Dependency Injection\obj\Debug\net8.0\ref\Dependency Injection.dll
